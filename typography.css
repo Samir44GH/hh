@@ -39,7 +39,7 @@ body {
 	line-height: 50px;
 	text-indent: 25px;
 	width: 50%;
-	max-width: 800px;
+	min-width: 800px;
 	padding-top: 40px;
 	background-image: url('bunting.png');
 	background-attachment:scroll;
@@ -47,6 +47,7 @@ body {
 	background-color: rgb(251 250 241);
 	margin-right: auto;
 	margin-left: auto;
+	text-transform: unset;
 }
 
 .antoine {
